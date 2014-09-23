@@ -1,7 +1,6 @@
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin\Sujithkphp.dll
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin\Sujithkphp.pdb
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin\Microsoft.Web.Infrastructure.dll
-c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin\Newtonsoft.Json.dll
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin\System.Net.Http.dll
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin\System.Net.Http.Formatting.dll
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin\System.Net.Http.WebRequest.dll
@@ -28,3 +27,4 @@ c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\bin
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\obj\Debug\Sujithkphp.csprojResolveAssemblyReference.cache
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\obj\Debug\Sujithkphp.dll
 c:\users\sujeesh\documents\visual studio 2010\Projects\Sujithkphp\Sujithkphp\obj\Debug\Sujithkphp.pdb
+C:\Users\Sujeesh\Documents\Visual Studio 2010\Projects\Sujithkphp\Sujithkphp\bin\Microsoft.Web.Infrastructure.xml
