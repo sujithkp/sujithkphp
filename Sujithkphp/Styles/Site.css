@@ -1,0 +1,12 @@
+﻿body
+{
+    background-color: rgb(211, 211, 211);
+}
+
+.Container
+{
+    width: 1200px;
+    height: 768px;
+    background-color: White;
+    box-shadow: 0 10px 25px 5px #888888;
+}
